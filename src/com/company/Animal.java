@@ -11,10 +11,6 @@ public class Animal {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
-    }
-
     public void character(){
         System.out.println("Zwierze: "+name);
     }
