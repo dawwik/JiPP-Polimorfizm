@@ -15,7 +15,7 @@ public class Animal {
         this.name = name;
     }
 
-    public void sound(){
+    public void character(){
         System.out.println("Zwierze: "+name);
     }
 }

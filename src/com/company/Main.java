@@ -10,7 +10,7 @@ public class Main {
         animals[2] = new Mouse("Miki");
 
         for (Animal animal1 : animals) {
-            animal1.sound();
+            animal1.character();
 
         }
     }

@@ -6,7 +6,7 @@ class Mouse extends Animal {
     }
 
     @Override
-    public void sound() {
+    public void character() {
         System.out.println("Mysz: "+ getName());
     }
 }
